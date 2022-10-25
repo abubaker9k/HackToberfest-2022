@@ -1,6 +1,7 @@
 from random import randint
 
 print("### INICIANDO O JOGO ###")
+print("### STARTING THE GAME ###")
 
 aleatorio = randint(1, 10)
 chute = 0
